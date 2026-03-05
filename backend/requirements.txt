@@ -1,0 +1,12 @@
+fastapi==0.115.0
+uvicorn==0.30.6
+pydantic==2.9.2
+groq==0.11.0
+pinecone-client==5.0.1
+pymupdf==1.24.9          # PDF loading
+pillow==10.4.0           # image processing
+easyocr==1.7.1           # OCR for textbook images
+python-multipart==0.0.9  # file uploads
+python-dotenv==1.0.1
+huggingface_hub==0.25.1
+duckduckgo-search==6.3.2     # free web search tool

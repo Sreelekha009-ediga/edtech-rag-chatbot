@@ -1,0 +1,21 @@
+echo "
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+venv/
+.env
+
+# Node
+node_modules/
+.next/
+npm-debug.log
+yarn-error.log
+
+# Misc
+chroma_db/
+data/*
+.DS_Store
+" > .gitignore
