@@ -29,4 +29,4 @@ EXPOSE $PORT
 # Render uses $PORT environment variable automatically
 # Use shell form (no brackets) so $PORT expands correctly
 
-CMD uvicorn main:app --host 0.0.0.0 --port $PORT --workers 4
+CMD uvicorn main:app --host 0.0.0.0 --port $PORT

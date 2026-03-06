@@ -9,4 +9,4 @@ easyocr==1.7.1
 python-multipart==0.0.9
 python-dotenv==1.0.1
 duckduckgo-search==6.3.2
-sentence-transformers==3.0.1   # ← this line is critical
+requests==2.32.3
